@@ -1,3 +1,9 @@
+lxqt-themes-extra (1.0-0ubuntu1~ppa1) jammy; urgency=medium
+
+  * Backport to Jammy.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 16 Nov 2023 13:36:53 -0600
+
 lxqt-themes-extra (1.0-0ubuntu1) noble; urgency=medium
 
   * Initial release (LP: #2043723).
