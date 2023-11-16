@@ -1,0 +1,18 @@
+Source: lxqt-themes-extra
+Section: x11
+Priority: optional
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+Uploaders: Simon Quigley <tsimonq2@ubuntu.com>
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Homepage: https://gitlab.com/Bapt17/lxqt-themes
+Vcs-Browser: https://git.lubuntu.me/Lubuntu/lxqt-themes-extra
+Vcs-Git: https://git.lubuntu.me/Lubuntu/lxqt-themes-extra.git
+
+Package: lxqt-themes-extra
+Architecture: all
+Depends: lxqt-themes, ${misc:Depends}
+Description: Extra LXQt Themes
+ This package contains extra LXQt themes, designed by Baptiste Huchon.
+ It contains two themes: win-eleven-dark, sombre-et-rond
